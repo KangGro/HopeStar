@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="HopeStar"
+  id="myeclipse.1437225482779"
+  context-root="/HopeStar"
+  j2ee-spec="6.0"
+  archive="HopeStar.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
